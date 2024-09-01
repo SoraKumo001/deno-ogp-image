@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "include": ["src"],
+    "entrypoint": "src\\index.tsx"
+  }
+}
